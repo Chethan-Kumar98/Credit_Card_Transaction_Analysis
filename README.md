@@ -23,7 +23,7 @@ Key Features & Insights:
   5. Revenue by Gender: Breakdown of transaction revenue based on customer gender.
   6. Quarterly Revenue: Analyzed revenue performance by quarter.
   
-  2. Customer Demographics Dashboard:
+2. Customer Demographics Dashboard:
 
   1. Income Distribution: Visualized customer income distribution and patterns.
   2. Customer Satisfaction: Explored customer satisfaction scores to understand customer experiences.
